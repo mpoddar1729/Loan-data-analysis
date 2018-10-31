@@ -1,10 +1,9 @@
-# Loan-data-analysis
 
-Experimental analysis of a labeled loan dataset
+# Some experiments on a labeled loan dataset
 
 Summary: 
 
-We analyse labelled loan application data having 614 observations and 11 features applying supervised machine learning algorithms including neural nets. The data has been obtained from Analytics Vidhya.
+We analyse labeled loan application data having 614 observations and 11 features applying supervised machine learning algorithms including neural nets. The data has been obtained from Analytics Vidhya.
 
 After some EDA and data munging, we fit the standard classification models from scikitlearn like Logistic Regression, SVC, Linear SVC, 
 Random Forest, KNN etc. We introduce some extra features that improve the performance a little bit. Feature importances (or coefficients) 
